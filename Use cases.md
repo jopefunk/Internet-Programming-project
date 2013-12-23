@@ -1,13 +1,13 @@
 3. Use cases
 ================
-Definition of the user groups
+1. Definition of the user groups
 --------------------------
 
-Use case diagrams
+2. Use case diagrams
 -------------------------
 
-Use case scenarios (based on template)
+3. Use case scenarios (based on template)
 ---------------------------
 
-Depiction of one use case as a flow chart
+4. Depiction of one use case as a flow chart
 -----------------------
