@@ -11,7 +11,7 @@
 #Sign-up page
 
   * Sign-up to get right to comment on the blog
-![Sign-up Page](https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/1521352_10201179356101183_1590785284_n.jpg)
+![Sign-up Page](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-prn2/988785_10201179506864952_422611480_n.jpg)
 
 
 
