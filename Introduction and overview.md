@@ -10,9 +10,8 @@ All of this is going to help the users to enjoy each others posts, and the envir
 
 1.2 Overview:
 ----------------
-When logged in, the page redirects the user to his/her own profile with the previous posts. This CMS will basically allow only registered users to post new articles. When articles are posted, it will be displayed as the highest article on the page. Users who have not registered are able to view published articles but they are not able to post new ones. Comments are posted only by registered users and then are showed to public after that.
-There is a page for admin or registered users to login for editing, publishing or deleting 
-
+When logged in, the page redirects the user to his/her own profile with the previous posts. This CMS will basically allow only the administrator to post new articles. When articles are posted, it will be displayed as the highest article on the page. Guest users and registered users are able to view published articles but they are not able to post new ones. Comments are posted only by registered users and then are showed to public after that.
+There is a page for admin or registered users to login.
 
 2. Specific requirements:
 -----------------------------
