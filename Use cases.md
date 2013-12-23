@@ -21,6 +21,7 @@ to do everything on the site except create new accounts. He or she can access al
 
 2.2 Use case diagrams
 -------------------------
+//note: susanna is making these right now
 
 2.3 Use case scenarios (based on template)
 ---------------------------
