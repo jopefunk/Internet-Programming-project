@@ -23,6 +23,8 @@ to do everything on the site except create new accounts. He or she can access al
 -------------------------
 //note: susanna is making these right now
 
+[Use Case Diagram](https://users.metropolia.fi/~susannrk/UseCaseDiagram.png)
+
 2.3 Use case scenarios (based on template)
 ---------------------------
 
