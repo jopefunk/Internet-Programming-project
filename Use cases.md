@@ -29,3 +29,4 @@ to do everything on the site except create new accounts. He or she can access al
 
 2.4 Depiction of one use case as a flow chart
 -----------------------
+[Flow chart](https://users.metropolia.fi/~susannrk/flowchart.png)
