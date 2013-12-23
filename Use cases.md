@@ -22,7 +22,7 @@ to do everything on the site except create new accounts. He or she can access al
 2.2 Use case diagrams
 -------------------------
 
-[Use Case Diagram](https://users.metropolia.fi/~susannrk/usecase.png)
+[Use Case Diagram](https://users.metropolia.fi/~susannrk/usecase1.png)
 
 2.3 Use case scenarios (based on template)
 ---------------------------
