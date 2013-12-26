@@ -37,17 +37,21 @@ User is not logged in.
 5. The user is redirected to the front page and is now logged in.
 
 *	What can go wrong:
+
 The user mistypes the username or password.
 
 *	Other activities going on at the same time:
+
 Database checks the match with the username and password.
 
 *	End state:
+
 The user is logged in.
 
 **"User wants to log out"**
 
 *	Initial state:
+
 User is logged in and on the main page.
 
 *	Normal flow:
