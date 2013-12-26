@@ -23,6 +23,7 @@ to do everything on the site. He or she can access all the user information and 
 2.3 Use case scenarios (based on template)
 ---------------------------
 
+
 2.4 Depiction of one use case as a flow chart
 -----------------------
 [Flow chart](https://users.metropolia.fi/~rosas/flowchart.png)
