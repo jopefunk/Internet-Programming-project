@@ -22,8 +22,10 @@ to do everything on the site. He or she can access all the user information and 
 
 2.3 Use case scenarios 
 ---------------------------
-"User wants to login"
-•	Initial state:
+
+**"User wants to login"**
+
+Initial state:
 User is not logged in.
 •	Normal flow:
 i.	User opens the site.
@@ -37,7 +39,9 @@ The user mistypes the username or password.
 Database checks the match with the username and password.
 •	End state:
 The user is logged in.
-"User wants to log out"
+
+**"User wants to log out"**
+
 •	Initial state:
 User is logged in and on the main page.
 •	Normal flow:
@@ -62,7 +66,9 @@ The link to the article might be wrong.
 The browser redirects the user to the next page.
 •	End state:
 User is reading the full version of an article.
-”User wants to comment”
+
+**”User wants to comment”**
+
 •	Initial state:
 User is reading the full version of an article..
 •	Normal flow:
@@ -77,7 +83,8 @@ The database checks if the entered text is appropriate. If it is it is published
 •	End state:
 User is on the same page, but sees his or her comment on top of the list of the comments.
 
-”User wants to create a post”
+**”User wants to create a post”**
+
 •	Initial state:
 User is on the dashboard page. 
 •	Normal flow:
@@ -91,12 +98,12 @@ The browser redirects the user to the next page.
 •	End state:
 User is reading the full version of an article.
 
-“User wants to delete a post”
-“User wants to edit blog”
-“User wants to delete comment”
-“User wants to create page”
-“User wants to edit page”
-“User wants to delete page”
+**“User wants to delete a post”**
+**“User wants to edit blog”**
+**“User wants to delete comment”**
+**“User wants to create page”**
+**“User wants to edit page”**
+**“User wants to delete page”**
 
 
 2.4 Depiction of one use case as a flow chart
