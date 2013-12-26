@@ -29,11 +29,11 @@ to do everything on the site. He or she can access all the user information and 
 User is not logged in.
 
 * Normal flow:
-i.	User opens the site.
-ii.	User click the link to the Login page.
-iii.	User sees the page with the username and password form and the "Login" button.
-iv.	Then he/she enters the username and password and clicks "Login".
-v.	The user is redirected to the front page and is now logged in.
+1.	User opens the site.
+2.	User click the link to the Login page.
+3.	User sees the page with the username and password form and the "Login" button.
+4.	Then he/she enters the username and password and clicks "Login".
+5.	The user is redirected to the front page and is now logged in.
 
 *	What can go wrong:
 The user mistypes the username or password.
