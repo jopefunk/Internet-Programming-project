@@ -25,77 +25,98 @@ to do everything on the site. He or she can access all the user information and 
 
 **"User wants to login"**
 
-Initial state:
+* Initial state:
 User is not logged in.
-•	Normal flow:
+
+* Normal flow:
 i.	User opens the site.
 ii.	User click the link to the Login page.
 iii.	User sees the page with the username and password form and the "Login" button.
 iv.	Then he/she enters the username and password and clicks "Login".
 v.	The user is redirected to the front page and is now logged in.
-•	What can go wrong:
+
+*	What can go wrong:
 The user mistypes the username or password.
-•	Other activities going on at the same time:
+
+*	Other activities going on at the same time:
 Database checks the match with the username and password.
-•	End state:
+
+*	End state:
 The user is logged in.
 
 **"User wants to log out"**
 
-•	Initial state:
+*	Initial state:
 User is logged in and on the main page.
-•	Normal flow:
+
+*	Normal flow:
 i.	User sees the log out button and clicks it.
 ii.	The front page is refreshed and the user is now logged out.
-•	What can go wrong:
+
+* What can go wrong:
 No user errors exist for logging out.
-•	Other activities going on at the same time:
+
+*	Other activities going on at the same time:
 Database logs the user out from the account.
-•	End state:
+
+*	End state:
 The user is logged out.
 "User wants to browse the site”
-•	Initial state:
+
+*	Initial state:
 User is on the main page.
-•	Normal flow:
+
+*	Normal flow:
 i.	User sees a list of the summaries of the latest articles.
 ii.	User clicks the heading of the article he or she wants to read.
 iii.	User is redirected to the full version of that article.
- What can go wrong:
+
+* What can go wrong:
 The link to the article might be wrong.
-•	Other activities going on at the same time:
+
+* Other activities going on at the same time:
 The browser redirects the user to the next page.
-•	End state:
+
+* End state:
 User is reading the full version of an article.
 
 **”User wants to comment”**
 
-•	Initial state:
+* Initial state:
 User is reading the full version of an article..
-•	Normal flow:
+
+* Normal flow:
 i.	User sees the comment form at the end of the page.
 ii.	User enters the comment into the comment box.
 iii.	User enters his name to the name field.
 iv.	User clicks the send button.
- What can go wrong:
+
+* What can go wrong:
 The entered information is not valid.
-•	Other activities going on at the same time:
+
+*	Other activities going on at the same time:
 The database checks if the entered text is appropriate. If it is it is published as a comment. 
-•	End state:
+
+*	End state:
 User is on the same page, but sees his or her comment on top of the list of the comments.
 
 **”User wants to create a post”**
 
-•	Initial state:
+*	Initial state:
 User is on the dashboard page. 
-•	Normal flow:
+
+*	Normal flow:
 i.	User sees a list of the summaries of the latest articles.
 ii.	User clicks the heading of the article he or she wants to read.
 iii.	User is redirected to the full version of that article.
- What can go wrong:
+
+* What can go wrong:
 The link to the article might be wrong.
-•	Other activities going on at the same time:
+
+*	Other activities going on at the same time:
 The browser redirects the user to the next page.
-•	End state:
+
+*	End state:
 User is reading the full version of an article.
 
 **“User wants to delete a post”**
