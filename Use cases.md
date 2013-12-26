@@ -66,7 +66,8 @@ Database logs the user out from the account.
 
 *	End state:
 The user is logged out.
-"User wants to browse the site”
+
+**"User wants to browse the site”**
 
 *	Initial state:
 User is on the main page.
@@ -105,26 +106,19 @@ The database checks if the entered text is appropriate. If it is it is published
 *	End state:
 User is on the same page, but sees his or her comment on top of the list of the comments.
 
-**”User wants to create a post”**
+**”User wants to edit a post”**
 
 *	Initial state:
 User is on the dashboard page. 
 
 *	Normal flow:
-i.	User sees a list of the summaries of the latest articles.
-ii.	User clicks the heading of the article he or she wants to read.
-iii.	User is redirected to the full version of that article.
-
-* What can go wrong:
-The link to the article might be wrong.
-
-*	Other activities going on at the same time:
-The browser redirects the user to the next page.
-
-*	End state:
-User is reading the full version of an article.
+i.	User sees the edit page link.
+ii.	User clicks the link and is redirected to the 'edit page' page.
 
 **“User wants to delete a post”**
+
+
+
 **“User wants to edit blog”**
 **“User wants to delete comment”**
 **“User wants to create page”**
