@@ -128,4 +128,4 @@ ii.	User clicks the link and is redirected to the 'edit page' page.
 
 2.4 Depiction of one use case as a flow chart
 -----------------------
-[Flow chart](https://users.metropolia.fi/~rosas/flowchart.png)
+[Flow chart](https://users.metropolia.fi/~susannark/flowchart.png)
