@@ -3,7 +3,7 @@ Internet-Programming-project
 
 ### STRUCTURE TO FOLLOW:
 
- 1. [Cover](####1)
+ 1. [Cover](#1)
  2. Introduction
  3. Use cases
  4. System architecture (no details)
