@@ -3,15 +3,15 @@ Internet-Programming-project
 
 ### STRUCTURE TO FOLLOW:
 
-#### 1. Cover
-#### 2. Introduction
-#### 3. Use cases
-#### 4. System architecture (no details)
-#### 5. Requirements (in traceable (and measurable) format)
+ 1. [Cover](####1)
+ 2. Introduction
+ 3. Use cases
+ 4. System architecture (no details)
+ 5. Requirements (in traceable (and measurable) format)
 
 #### CONTENT:
 
-#### 1. Cover
+####1. Cover
 
 - Title "<Product name>: requirements of the system XX"
 - Team name
