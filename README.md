@@ -1,7 +1,7 @@
 Internet-Programming-project
 ============================
 
-STRUCTURE TO FOLLOW:
+#STRUCTURE TO FOLLOW:
 
 #### 1. Cover
 #### 2. Introduction
@@ -10,12 +10,16 @@ STRUCTURE TO FOLLOW:
 #### 4. System architecture (no details)
 #### 5. Requirements (in traceable (and measurable) format)
 
+#CONTENT
+
+#### 1. Cover
+
 - Title "<Product name>: requirements of the system XX"
 - Team name
 - Team members
 - Date
 - Version history (if exist)
- 
+
 #### 2. Introduction
  
 + Overall description of the project, context
