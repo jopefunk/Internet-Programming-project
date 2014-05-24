@@ -4,10 +4,10 @@ Internet-Programming-project
 ### STRUCTURE TO FOLLOW:
 
  1. [Cover](#1-cover)
- 2. Introduction
- 3. Use cases
- 4. System architecture (no details)
- 5. Requirements (in traceable (and measurable) format)
+ 2. [Introduction](#2-introduction)
+ 3. [Use cases](#3-use-cases)
+ 4. [System architecture](#4-architecture-no-details)
+ 5. [Requirements](#5-requirements)
 
 #### CONTENT:
 
@@ -31,12 +31,12 @@ Internet-Programming-project
 + Use case scenarios (based on template)
 + Depiction of one use case as a flow chart
  
-#### 4. System architecture (no details)
+#### 4. System architecture
  
 + High-level overview of the system
 + Main modules and their functions represented
  
-#### 5. Requirements (in traceable (and measurable) format)
+#### 5. Requirements
  
 + Functional requirements
 + Non-functional system requirements
