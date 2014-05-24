@@ -8,7 +8,7 @@ Internet-Programming-project
  3. [Use cases](#3-use-cases)
  4. [System architecture](#4-architecture-no-details)
  5. [Requirements](#5-requirements)
- 6. [User interface](#5-user-interface)
+ 6. [User interface](#6-user-interface)
 
 #### CONTENT:
 
