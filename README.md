@@ -1,16 +1,15 @@
 Internet-Programming-project
 ============================
 
-#STRUCTURE TO FOLLOW:
+### STRUCTURE TO FOLLOW:
 
 #### 1. Cover
 #### 2. Introduction
 #### 3. Use cases
 #### 4. System architecture (no details)
-#### 4. System architecture (no details)
 #### 5. Requirements (in traceable (and measurable) format)
 
-#CONTENT
+#### CONTENT:
 
 #### 1. Cover
 
